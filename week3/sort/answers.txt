@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: Because have the greatest variance between the best and the worst case.
+
+sort2 uses: Merge Sort
+
+How do you know?: This is where there is the best execution time, both cases have practically same execution time.
+
+sort3 uses: Selection Sort
+
+How do you know?: it is the one with the best and the worse cases are almost equal and it takes longer than sort2
